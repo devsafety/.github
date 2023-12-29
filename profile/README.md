@@ -8,7 +8,3 @@
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsafety&show_icons=true&locale=en" alt="devsafety" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsafety&" alt="devsafety" /></p>
